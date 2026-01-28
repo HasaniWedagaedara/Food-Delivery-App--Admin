@@ -22,7 +22,7 @@
     border-right: 0;
     cursor: pointer;
 }
-.sidebar-option .active{
+.sidebar-option.active{
     background-color: #fff0ed;
     border-color: tomato;
 }
